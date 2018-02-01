@@ -37,6 +37,10 @@ export class MenusService {
             name: 'Analyze',
             path: ''
           }, {
+          name: 'Launcher',
+          feature: 'AppLauncher',
+          path: '/_applauncher'
+        }, {
             name: 'Plan',
             feature: 'Planner',
             path: 'plan',
